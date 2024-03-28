@@ -1,4 +1,4 @@
-remote_theme: pages-themes/cayman@v0.2.0
+theme: jekyll-theme-cayman@v0.2.0
 title: "Innovative Tech Solutions"
 description: "We provide simple, effective solutions to your software development needs."
 plugins:
