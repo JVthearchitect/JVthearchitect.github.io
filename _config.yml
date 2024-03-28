@@ -1,0 +1,5 @@
+theme: pages-themes/cayman@v0.2.0
+title: "Innovative Tech Solutions"
+description: "We provide simple, effective solutions to your software development needs."
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
